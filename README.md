@@ -567,19 +567,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Fases da Lua</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/9.%20Desafios%20M%C3%A9dios%20JavaScript/01.%20Fases%20da%20Lua/solucao.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Polígonos Regulares Simples</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/9.%20Desafios%20M%C3%A9dios%20JavaScript/02.%20Pol%C3%ADgonos%20Regulares%20Simples/solucao.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Teorema da Divisão Euclidiana</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/9.%20Desafios%20M%C3%A9dios%20JavaScript/03.%20Teorema%20da%20Divis%C3%A3o%20Euclidiana/solucao.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
