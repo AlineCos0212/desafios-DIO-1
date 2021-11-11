@@ -550,6 +550,40 @@
     <summary><strong>JavaScript</strong></summary>
     <br />
     <div align="left">
+        <!-- Desafios Médios JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Desafios Médios JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="4">Impulso React Web Developer</th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Fases da Lua</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Teorema da Divisão Euclidiana</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+        <!-- Desafios Médios JavaScript -->
         <!-- Introdução a Programação -->
         <table border=1>
             <tr>
@@ -583,6 +617,7 @@
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Introdução a Programação -->
         <!-- Introdução a Programação com JavaScript -->
         <table border=1>
             <tr>
