@@ -1,5 +1,39 @@
 <h1 align="center">Desafios e Soluções :books:</h1>
 
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aopen+is%3Aissue">
+    <img src="https://img.shields.io/github/issues-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Open Issues" /> 
+  </a>
+  
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Closed Issues" /> 
+  </a>
+    
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
+    <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO?style=plastic" title="Stars" /> 
+  </a>
+    
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO?style=plastic" title="License" /> 
+  </a>
+ 
+  <a href="#">
+    <img src="https://img.shields.io/github/languages/count/lucasrmagalhaes/desafios-DIO?style=plastic" title="Language Count" />
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/github/languages/top/lucasrmagalhaes/desafios-DIO?style=plastic" title="Top Language" />
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/github/languages/code-size/lucasrmagalhaes/desafios-DIO?style=plastic" title="Code Size in Bytes" />
+  </a>
+    
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/commits/master">
+    <img src="https://img.shields.io/github/last-commit/lucasrmagalhaes/desafios-DIO?style=plastic" title="Last Commit" />
+  </a>
+</p>
+
 <!-- C Sharp -->
 <details>
     <summary><strong>C#</strong></summary>
@@ -1086,37 +1120,3 @@
         <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>
-
-<p align="center">
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aopen+is%3Aissue">
-    <img src="https://img.shields.io/github/issues-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Open Issues" /> 
-  </a>
-  
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Closed Issues" /> 
-  </a>
-    
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
-    <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO?style=plastic" title="Stars" /> 
-  </a>
-    
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO?style=plastic" title="License" /> 
-  </a>
- 
-  <a href="#">
-    <img src="https://img.shields.io/github/languages/count/lucasrmagalhaes/desafios-DIO?style=plastic" title="Language Count" />
-  </a>
-  
-  <a href="#">
-    <img src="https://img.shields.io/github/languages/top/lucasrmagalhaes/desafios-DIO?style=plastic" title="Top Language" />
-  </a>
-  
-  <a href="#">
-    <img src="https://img.shields.io/github/languages/code-size/lucasrmagalhaes/desafios-DIO?style=plastic" title="Code Size in Bytes" />
-  </a>
-    
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/commits/master">
-    <img src="https://img.shields.io/github/last-commit/lucasrmagalhaes/desafios-DIO?style=plastic" title="Last Commit" />
-  </a>
-</p>
