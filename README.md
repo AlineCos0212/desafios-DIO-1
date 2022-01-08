@@ -186,31 +186,31 @@
             <tr>
                 <td align="center">1</td>
                 <td>Ho Ho Ho</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/11.%20Desafios%20C%23/1.%20Ho%20Ho%20Ho/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/11.%20Desafios%20C%23/2.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Esfera</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/11.%20Desafios%20C%23/3.%20Esfera/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Xenlonguinho</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/11.%20Desafios%20C%23/4.%20Xenlonguinho/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Pedro Bento e o Mundo de OZ</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/11.%20Desafios%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             </tr>
