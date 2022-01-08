@@ -169,6 +169,53 @@
             </tr>
         </table>
         <!-- Desafios Aritméticos em C# -->
+        <!-- Desafios C# -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Desafios C#</th>
+            </tr>
+            <tr>
+                <th colspan="4" align="center">LocalizaLabs .NET Developer #2</th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Ho Ho Ho</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Dividindo X por Y</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Esfera</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Xenlonguinho</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            </tr>
+        </table>
+        <!-- Desafios C# -->
         <!-- Desafios Intermediários C# -->
         <table border=1>
             <tr>
