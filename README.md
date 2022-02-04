@@ -825,19 +825,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/08.%20%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/1.%20Dividindo%20X%20por%20Y/solucao.js">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/08.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/1.%20Dividindo%20X%20por%20Y/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Blobs</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/08.%20%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/2.%20Blobs/solucao.js">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/08.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/2.%20Blobs/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Tipos de Combustível</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/08.%20%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/3.%20Tipo%20de%20Combust%C3%ADvel/solucao.js">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/08.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/3.%20Tipo%20de%20Combust%C3%ADvel/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
