@@ -964,6 +964,27 @@
                 <td align="center">✅</td>
             </tr>
         </table>
+        <!-- Ordenação e Filtros em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Ordenação e Filtros</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Uniformes de final de ano</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+        </table>
     </div>
 </details>
 
