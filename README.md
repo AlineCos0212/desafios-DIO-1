@@ -948,26 +948,26 @@
             <tr>
                 <td align="center">1</td>
                 <td>Ordenando Números Pares e Ímpares</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/solucao.js">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/06.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Animal</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/2.%20Animal/solucao.js">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/06.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/2.%20Animal/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Compras no Supermercado</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/3.%20Compras%20no%20Supermercado/solucao.js">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/06.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/3.%20Compras%20no%20Supermercado/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
-        <!-- Ordenação e Filtros em Java -->
+        <!-- Ordenação e Filtros em Javascript -->
         <table border=1>
             <tr>
-                <th colspan="4">Ordenação e Filtros</th>
+                <th colspan="4">Ordenação e Filtros em Javascript</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -981,13 +981,38 @@
             <tr>
                 <td align="center">1</td>
                 <td>Uniformes de final de ano</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/feature/uniformes/Desafios/JavaScript/10.%20Ordena%C3%A7%C3%A3o%20e%20filtros/01.%20Uniformes%20de%20final%20de%20ano/solucao.js">Código</a></td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Compras no Supermercado</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Uniformes de Final de Ano</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Fila do Banco </td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Gincana no Acampamento</td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
+        <!-- Ordenação e Filtros em Javascript -->
     </div>
 </details>
-
+<!-- Java Script -->
 <!-- Kotlin -->
 <details>
     <summary><strong>Kotlin</strong></summary>
