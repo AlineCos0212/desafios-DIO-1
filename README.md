@@ -981,7 +981,7 @@
             <tr>
                 <td align="center">1</td>
                 <td>Uniformes de final de ano</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/feature/uniformes/Desafios/JavaScript/10.%20Ordena%C3%A7%C3%A3o%20e%20filtros/01.%20Uniformes%20de%20final%20de%20ano/solucao.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
