@@ -980,8 +980,8 @@
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td>Uniformes de final de ano</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/10.%20Ordena%C3%A7%C3%A3o%20e%20filtros/01.%20Ordenando%20Numeros%20Pares%20e%20%C3%8Dmpares/solucao.js">Código</a></td>
+                <td>Ordenando Números Pares e Ímpares</td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
