@@ -1223,7 +1223,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" colspan="2">Contribuidores</td>
+      <td align="center" colspan="2"><strong>Contribuidores</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td align="center">
