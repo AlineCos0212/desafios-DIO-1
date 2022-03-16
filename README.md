@@ -1217,3 +1217,25 @@
         <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>
+
+<hr />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" colspan="2">Contribuidores</td>
+    </tr>
+    <tr>
+      <td align="center">
+          <a href="https://github.com/rbalves">
+            <img src="https://avatars.githubusercontent.com/u/26890154?v=4" width="100px;"/><br><sub><b>Rafael Alves</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/WebDevCampos">
+          <img src="https://avatars.githubusercontent.com/u/76740456?v=4" width="100px;"/><br><sub><b>Marcus Rangel</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
