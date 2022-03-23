@@ -1018,6 +1018,46 @@
             </tr>
         </table>
         <!-- Desafios Impulso Iniciante - JavaScript -->
+        <!-- Desafios Impulso Intermediário - JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Desafios Impulso Intermediário - JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="4">Impulso Fullstack Web Developer</th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Degustação de vinho</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/12.%20Desafios%20Impulso%20Intermediario%20-%20JavaScript/01.%20Degusta%C3%A7%C3%A3o%20de%20vinho/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/12.%20Desafios%20Impulso%20Intermediario%20-%20JavaScript/02.%20Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>A Corrida de Tartarugas</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/12.%20Desafios%20Impulso%20Intermediario%20-%20JavaScript/03.%20A%20Corrida%20de%20Tartarugas/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/12.%20Desafios%20Impulso%20Intermediario%20-%20JavaScript/04.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+        </table>
+        <!-- Desafios Impulso Intermediário - JavaScript -->
     </div>
 </details>
 <!-- Java Script -->
