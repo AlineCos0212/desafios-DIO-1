@@ -1226,57 +1226,61 @@
     </div>
 </details>
 
-<details>
-  <summary><strong>Contribuidores</strong></summary>
-  <div align="center">
+<div align="center">
     <table>
-      <tr>
-        <td align="center" colspan="2"><strong>Contribuidores</strong></td>
-      </tr>
-      <tr>
-        <td colspan="2"></td>
-      </tr>
-      <tr>
-        <td align="center">
-            <a href="https://github.com/rbalves">
-              <img src="https://avatars.githubusercontent.com/u/26890154?v=4" width="100px;"/><br><sub><b>Rafael Alves</b></sub>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/WebDevCampos">
-            <img src="https://avatars.githubusercontent.com/u/76740456?v=4" width="100px;"/><br><sub><b>Marcus Rangel</b></sub>
-          </a>
-        </td>
-      </tr>
+        <tr>
+            <td align="center" colspan="2"><strong>Contribuidores</strong></td>
+        </tr>
+        <tr>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/rbalves">
+                    <img src="https://avatars.githubusercontent.com/u/26890154?v=4" width="100px;"/><br><sub><b>Rafael Alves</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/WebDevCampos">
+                <img src="https://avatars.githubusercontent.com/u/76740456?v=4" width="100px;"/><br><sub><b>Marcus Rangel</b></sub>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p align="center">
+                    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aopen+is%3Aissue">
+                        <img src="https://img.shields.io/github/issues-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Open Issues" alt="Open Issues" /> 
+                    </a>
+                    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aissue+is%3Aclosed">
+                        <img src="https://img.shields.io/github/issues-closed-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Closed Issues" alt="Closed Issues" /> 
+                    </a>
+                    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
+                        <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO?style=plastic" title="Stars" alt="Stars" /> 
+                    </a>
+                    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/network/members">
+                        <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" title="Forks" alt="Forks" /> 
+                    </a>
+                    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
+                        <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO?style=plastic" title="License" alt="License" /> 
+                    </a>
+                    <a href="#">
+                        <img src="https://img.shields.io/github/languages/count/lucasrmagalhaes/desafios-DIO?style=plastic" title="Language Count" alt="Language Count" />
+                    </a>
+                    <a href="#">
+                        <img src="https://img.shields.io/github/languages/top/lucasrmagalhaes/desafios-DIO?style=plastic" title="Top Language" alt="Top Language" />
+                    </a>
+                    <a href="#">
+                        <img src="https://img.shields.io/github/languages/code-size/lucasrmagalhaes/desafios-DIO?style=plastic" title="Code Size in Bytes" alt="Code Size in Bytes" />
+                    </a>
+                    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/commits/master">
+                        <img src="https://img.shields.io/github/last-commit/lucasrmagalhaes/desafios-DIO?style=plastic" title="Last Commit" alt="Last Commit" />
+                    </a>
+                </p>
+            </td>
+        </tr>
     </table>
-  </div>
-  <p align="center">
-    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aopen+is%3Aissue">
-      <img src="https://img.shields.io/github/issues-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Open Issues" alt="Open Issues" /> 
-    </a>
-    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/lucasrmagalhaes/desafios-DIO?style=plastic" title="Closed Issues" alt="Closed Issues" /> 
-    </a>
-    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
-      <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO?style=plastic" title="Stars" alt="Stars" /> 
-    </a>
-    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/network/members">
-      <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" title="Forks" alt="Forks" /> 
-    </a>
-    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO?style=plastic" title="License" alt="License" /> 
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/github/languages/count/lucasrmagalhaes/desafios-DIO?style=plastic" title="Language Count" alt="Language Count" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/github/languages/top/lucasrmagalhaes/desafios-DIO?style=plastic" title="Top Language" alt="Top Language" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/github/languages/code-size/lucasrmagalhaes/desafios-DIO?style=plastic" title="Code Size in Bytes" alt="Code Size in Bytes" />
-    </a>
-    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/commits/master">
-      <img src="https://img.shields.io/github/last-commit/lucasrmagalhaes/desafios-DIO?style=plastic" title="Last Commit" alt="Last Commit" />
-    </a>
-  </p>
-</details>
+</div>
