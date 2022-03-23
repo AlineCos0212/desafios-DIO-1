@@ -972,6 +972,52 @@
             </tr>
         </table>
         <!-- Ordenação e Filtros em Javascript -->
+        <!-- Desafios Impulso Iniciante - JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Desafios Impulso Iniciante - JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="4">Impulso Fullstack Web Developer</th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Fila do Banco</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/11.%20Desafios%20Impulso%20Iniciante%20-%20JavaScript/01.%20Fila%20do%20Banco/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Blobs</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/11.%20Desafios%20Impulso%20Iniciante%20-%20JavaScript/02.%20Blobs/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Xadrez</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/11.%20Desafios%20Impulso%20Iniciante%20-%20JavaScript/03.%20Xadrez/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Batmain</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/tree/master/Desafios/JavaScript/11.%20Desafios%20Impulso%20Iniciante%20-%20JavaScript/04.%20Batmain">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Nome no Formulário</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/11.%20Desafios%20Impulso%20Iniciante%20-%20JavaScript/05.%20Nome%20no%20Formul%C3%A1rio/solucao.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+        </table>
+        <!-- Desafios Impulso Iniciante - JavaScript -->
     </div>
 </details>
 <!-- Java Script -->
